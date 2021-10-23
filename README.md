@@ -1,4 +1,4 @@
-I'm Adaline (she/they/it), but you can call me Addie! I've been working on software for years in different places using different tools and languages. I've last worked as a Lead Software Engineer at [ServiceTitan](https://servicetitan.com/), but where my software passion came to life and has been since is in the [open source](https://opensource.org/faq#category-basics) community.
+I'm Adaline (she/they/it), but you can call me Addie! I've been working on software for years in different places using different tools and languages. I've last worked as a Lead Software Engineer and Engineering Manager at [ServiceTitan](https://servicetitan.com/), but where my software passion came to life and has been since is in the [open source](https://opensource.org/faq#category-basics) community.
 
 Nowadays, I maintain:
 

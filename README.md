@@ -1,4 +1,4 @@
-I'm Adaline (they/she), but you can call me Addie! I've been working on software for years in different places using different tools and languages. I currently work as a senior engineer on the architecture team at [Slickdeals](https://slickdeals.net/), but where my software passion came to life and has been since is in the [open source](https://opensource.org/faq#basics-of-open-source) community.
+I'm Adaline (they/she), but you can call me Addie! I've been working on software for years in different places using different tools and languages. My passion for software grew out of my involvement in the [open source](https://opensource.org/faq#basics-of-open-source) community.
 
 Some of the projects I maintain are:
 
